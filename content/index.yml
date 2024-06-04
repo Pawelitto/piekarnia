@@ -20,22 +20,22 @@ offer:
   items:
     - title: Pieczywo
       description: Świeżo wypiekane chleby, bułki i bagietki. Tradycyjne receptury i naturalne składniki.
-      icon: i-heroicons-scissors
+      icon: i-mingcute-bread-line
     - title: Ciasta i torty
       description: Pyszne ciasta i torty na każdą okazję, wykonane z najwyższej jakości składników.
-      icon: i-heroicons-user
+      icon: i-heroicons-cake
     - title: Słodkie wypieki
       description: Kruche ciasteczka, drożdżówki, babeczki i wiele innych słodkości.
-      icon: i-heroicons-paint-brush
+      icon: i-ri-cake-3-line
     - title: Produkty bezglutenowe
       description: Wypieki bezglutenowe dla osób z nietolerancją glutenu, przygotowane z dbałością o smak i jakość.
-      icon: i-mdi-hair-dryer-outline
+      icon: i-healthicons-gluten-free
     - title: Pieczywo na zamówienie
       description: Indywidualne zamówienia na specjalne okazje. Skontaktuj się z nami, aby omówić szczegóły.
-      icon: i-heroicons-heart
+      icon: i-heroicons-pencil-square
     - title: Produkty ekologiczne
       description: Wypieki z certyfikowanych, ekologicznych składników. Zdrowo i smacznie.
-      icon: i-heroicons-light-bulb
+      icon: i-material-symbols-eco-outline-rounded
 testimonials:
   headline: Opinie
   title: Co mówią nasi klienci
