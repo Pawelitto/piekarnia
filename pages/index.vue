@@ -21,23 +21,23 @@ const openingHours = [
   },
   {
     day: 'Wtorek',
-    hours: '12:00 – 20:00',
+    hours: '05:30 - 15:30',
   },
   {
     day: 'Środa',
-    hours: '09:00 – 18:00',
+    hours: '05:30 - 15:30',
   },
   {
     day: 'Czwartek',
-    hours: '09:00 - 18:00',
+    hours: '05:30 - 15:30',
   },
   {
     day: 'Piątek',
-    hours: '11:00 - 20:00',
+    hours: '05:30 - 15:30',
   },
   {
     day: 'Sobota',
-    hours: '08:00 - 13:00',
+    hours: '05:30 - 12:00',
   },
   {
     day: 'Niedziela',
