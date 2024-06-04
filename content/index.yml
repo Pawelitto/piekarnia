@@ -1,0 +1,99 @@
+title: Piekarnia Tomasz Barański - Najlepsze Pieczywo i Ciasta
+description: Witamy w Piekarni Tomasz Barański! Oferujemy codziennie świeże pieczywo, pyszne ciasta i szeroki wybór wypieków. Odwiedź nasz sklep i skosztuj naszych wyrobów, tworzonych z pasją i najlepszych składników.
+hero:
+  title: Świeże Pieczywo Codziennie
+  description: Piekarnia Tomasz Barański - Tradycja, Smak i Jakość w Każdym Kęsie.
+  headline:
+    label: Kontakt
+    to: '#kontakt'
+    icon: i-heroicons-phone-arrow-down-left
+  links:
+    - label: Opinie
+      icon: i-heroicons-arrow-right-20-solid
+      trailing: true
+      to: '#opinie'
+      size: xl
+offer:
+  headline: Oferta
+  title: Odkryj nasze produkty
+  description: Oferujemy szeroki wybór pieczywa, ciast i innych wypieków, przygotowanych z najwyższej jakości składników. Poznaj naszą ofertę dostosowaną do Twoich potrzeb.
+  items:
+    - title: Pieczywo
+      description: Świeżo wypiekane chleby, bułki i bagietki. Tradycyjne receptury i naturalne składniki.
+      icon: i-heroicons-scissors
+    - title: Ciasta i torty
+      description: Pyszne ciasta i torty na każdą okazję, wykonane z najwyższej jakości składników.
+      icon: i-heroicons-user
+    - title: Słodkie wypieki
+      description: Kruche ciasteczka, drożdżówki, babeczki i wiele innych słodkości.
+      icon: i-heroicons-paint-brush
+    - title: Produkty bezglutenowe
+      description: Wypieki bezglutenowe dla osób z nietolerancją glutenu, przygotowane z dbałością o smak i jakość.
+      icon: i-mdi-hair-dryer-outline
+    - title: Pieczywo na zamówienie
+      description: Indywidualne zamówienia na specjalne okazje. Skontaktuj się z nami, aby omówić szczegóły.
+      icon: i-heroicons-heart
+    - title: Produkty ekologiczne
+      description: Wypieki z certyfikowanych, ekologicznych składników. Zdrowo i smacznie.
+      icon: i-heroicons-light-bulb
+testimonials:
+  headline: Opinie
+  title: Co mówią nasi klienci
+  description: Jakość naszych wypieków potwierdzona opiniami zadowolonych klientów.
+  items:
+    - quote: Najlepsze pieczywo w okolicy! Zawsze świeże i pachnące. Polecam wszystkim miłośnikom prawdziwego chleba.
+      author:
+        name: Jan Kowalski
+        avatar:
+          loading: lazy
+    - quote: Piekarnia Tomasz Barański to moje ulubione miejsce na słodkie wypieki. Ich ciasta są nie do pobicia!
+      author:
+        name: Anna Nowak
+        avatar:
+          loading: lazy
+    - quote: Świetna obsługa i zawsze uśmiechnięci pracownicy. Czuć, że wypieki są robione z pasją. Zdecydowanie polecam!
+      author:
+        name: Piotr Wiśniewski
+        avatar:
+          loading: lazy
+    - quote: Kiedy potrzebuję świeżego chleba lub pysznego ciasta na specjalne okazje, zawsze wybieram Piekarnię Tomasz Barański.
+      author:
+        name: Maria Zielińska
+        avatar:
+          loading: lazy
+    - quote: Piekarnia na najwyższym poziomie. Smak pieczywa i ciast jest po prostu rewelacyjny. Każda wizyta to przyjemność.
+      author:
+        name: Krzysztof Kwiatkowski
+        avatar:
+          loading: lazy
+    - quote: Nie wyobrażam sobie dnia bez świeżego chleba od Piekarni Tomasz Barański. Jakość i smak są niezrównane!
+      author:
+        name: Monika Lewandowska
+        avatar:
+          loading: lazy
+    - quote: Ich ciasta to prawdziwe dzieła sztuki! Każda wizyta w tej piekarni to wyjątkowe doświadczenie smakowe.
+      author:
+        name: Bartosz Mazur
+        avatar:
+          loading: lazy
+    - quote: Najlepsze miejsce na zakup pieczywa i ciast w mieście. Zawsze świeże, zawsze pyszne. Polecam każdemu!
+      author:
+        name: Ewa Nowicka
+        avatar:
+          loading: lazy
+
+faq:
+  title: Często zadawane pytania
+  description: Tutaj znajdziesz odpowiedzi na najczęściej zadawane pytania dotyczące naszej piekarni.
+  items:
+    - label: Jakie produkty oferuje Piekarnia Tomasz Barański?
+      content: Oferujemy szeroki wybór pieczywa, ciast, ciastek i innych wypieków. W naszej ofercie znajdują się również produkty bezglutenowe i ekologiczne. Zapraszamy do zapoznania się z pełną listą produktów na naszej stronie.
+      defaultOpen: true
+    - label: Czy pieczywo i ciasta są świeże?
+      content: Tak, wszystkie nasze wypieki są przygotowywane codziennie rano, aby zapewnić ich najwyższą jakość i świeżość.
+    - label: Czy oferujecie produkty bezglutenowe?
+      content: Tak, w naszej ofercie znajdują się również wypieki bezglutenowe, przygotowane z myślą o osobach z nietolerancją glutenu.
+    - label: Jak mogę złożyć zamówienie na specjalne okazje?
+      content: Zamówienia na specjalne okazje można składać telefonicznie lub przez naszą stronę internetową. Zachęcamy do kontaktu, aby omówić szczegóły.
+    - label: Jak dbacie o jakość składników?
+      content: Korzystamy tylko z najwyższej jakości składników, pochodzących od sprawdzonych dostawców. Nasze produkty są przygotowywane zgodnie z tradycyjnymi recepturami, z dbałością o każdy detal.
