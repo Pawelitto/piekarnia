@@ -86,14 +86,14 @@ faq:
   title: Często zadawane pytania
   description: Tutaj znajdziesz odpowiedzi na najczęściej zadawane pytania dotyczące naszej piekarni.
   items:
-    - label: Jakie produkty oferuje Piekarnia Tomasz Barański?
-      content: Oferujemy szeroki wybór pieczywa, ciast, ciastek i innych wypieków. W naszej ofercie znajdują się również produkty bezglutenowe i ekologiczne. Zapraszamy do zapoznania się z pełną listą produktów na naszej stronie.
+    - label: Jakie produkty oferuje Piekarnia?
+      content: Oferujemy szeroki wybór pieczywa, ciast, ciastek i innych wypieków. W naszej ofercie znajdują się również produkty bezglutenowe i ekologiczne.
       defaultOpen: true
     - label: Czy pieczywo i ciasta są świeże?
       content: Tak, wszystkie nasze wypieki są przygotowywane codziennie rano, aby zapewnić ich najwyższą jakość i świeżość.
     - label: Czy oferujecie produkty bezglutenowe?
       content: Tak, w naszej ofercie znajdują się również wypieki bezglutenowe, przygotowane z myślą o osobach z nietolerancją glutenu.
     - label: Jak mogę złożyć zamówienie na specjalne okazje?
-      content: Zamówienia na specjalne okazje można składać telefonicznie lub przez naszą stronę internetową. Zachęcamy do kontaktu, aby omówić szczegóły.
+      content: Zamówienia na specjalne okazje można składać telefonicznie. Zachęcamy do kontaktu, aby omówić szczegóły.
     - label: Jak dbacie o jakość składników?
       content: Korzystamy tylko z najwyższej jakości składników, pochodzących od sprawdzonych dostawców. Nasze produkty są przygotowywane zgodnie z tradycyjnymi recepturami, z dbałością o każdy detal.
