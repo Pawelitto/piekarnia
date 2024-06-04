@@ -8,12 +8,13 @@ useHead({
 });
 
 useSeoMeta({
-  ogImage: 'https://i.ibb.co/7z2wHbF/grafika4.jpg',
-  twitterImage: 'https://i.ibb.co/7z2wHbF/grafika4.jpg',
+  ogImage: 'https://i.ibb.co/tHd4w5C/banner.jpg',
+  twitterImage: 'https://i.ibb.co/tHd4w5C/banner.jpg',
   twitterCard: 'summary_large_image',
-  ogUrl: 'https://i.ibb.co/7z2wHbF/grafika4.jpg',
-  twitterTitle: 'Salon Fryzur - Wojciech Gudzik.',
-  twitterDescription: 'Odkryj swoją nową fryzurę już dziś',
+  ogUrl: 'https://i.ibb.co/tHd4w5C/banner.jpg',
+  twitterTitle: 'Piekarnia Tomasz Barański - Najlepsze Pieczywo i Ciasta',
+  twitterDescription:
+    'Oferujemy codziennie świeże pieczywo, pyszne ciasta i szeroki wybór wypieków. Odwiedź nasz sklep i skosztuj naszych wyrobów, tworzonych z pasją i najlepszych składników.',
 });
 </script>
 

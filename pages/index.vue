@@ -54,10 +54,10 @@ useSeoMeta({
 
 const items = [
   'grafika1.jpeg',
+  'banner.jpeg',
   'grafika2.jpeg',
   'grafika3.jpeg',
   'grafika4.jpeg',
-  'grafika5.jpeg',
 ];
 </script>
 
@@ -109,7 +109,7 @@ const items = [
           icon: 'i-heroicons-arrow-right-20-solid',
         }"
         arrows
-        class="rounded-lg overflow-hidden max-h-[85vh] md:max-w-[60vw] flex items-center mx-auto"
+        class="rounded-lg overflow-hidden max-h-screen md:max-w-[30vw] flex items-center mx-auto"
       >
         <NuxtImg
           :src="item"
